@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Rashmi Abhisheka   
 
-<!--
-**R-abhisheka/R-abhisheka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *UI/UX Developer | Creative Thinker | Frontend Enthusiast*  
 
-Here are some ideas to get you started:
+I'm a passionate *UI/UX Developer* from *Sri Lanka, transforming ideas into seamless, user-friendly digital experiences. My expertise lies in **user-centered design, front-end development, and interactive prototyping*, ensuring intuitive and engaging interfaces.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do  
+🎨 *UI/UX Design* – Wireframing, Prototyping, and Visual Design  
+💻 *Frontend Development* – HTML, CSS, JavaScript, React  
+📱 *Responsive & Accessible Design* – Crafting smooth, inclusive experiences  
+
+## ⚡ Tech Stack  
+- 🎨 Figma 
+- 💻 HTML | CSS | JavaScript | React  
+- 🛠 Git | GitHub | VS Code  
+  
+🚀 *Always learning, creating, and exploring!## Hi there 👋
+
+- ⚡ Fun fact: call me as abhi
